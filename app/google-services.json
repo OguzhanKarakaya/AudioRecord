@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "274742952398",
+    "project_id": "audiorecord-d0b46",
+    "storage_bucket": "audiorecord-d0b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274742952398:android:defe51b217f893bb692b9f",
+        "android_client_info": {
+          "package_name": "com.oguzhankarakaya.audiorecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274742952398-raaqg2pfv8npcc3v606bkk7qoesg4hmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXg5FHrBhKYPweFWmGxeRaK7mFvxsboK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274742952398-raaqg2pfv8npcc3v606bkk7qoesg4hmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274742952398:android:bdf45fb0b6ce4e6e692b9f",
+        "android_client_info": {
+          "package_name": "com.oguzhankarakaya.audiotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274742952398-4l18efq6btuq8eorhavmvqeemc6s1jmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oguzhankarakaya.audiotest",
+            "certificate_hash": "5f7abfadf4d39041cd897a719cd19c115d2b151d"
+          }
+        },
+        {
+          "client_id": "274742952398-raaqg2pfv8npcc3v606bkk7qoesg4hmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXg5FHrBhKYPweFWmGxeRaK7mFvxsboK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274742952398-raaqg2pfv8npcc3v606bkk7qoesg4hmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
